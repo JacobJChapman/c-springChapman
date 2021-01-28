@@ -3,6 +3,7 @@
 using namespace std;
 
 int main() {
+  //listing all doubles
   double weightOunces;
   double metricTonOunces;
   double weightTons;
@@ -10,6 +11,8 @@ int main() {
 
   metricTonOunces = 35,273.92;
 
+  //enter variables
+  
   cout << "Enter weight of cereal package in ounces:" << endl;
   cin >> weightOunces;
 
